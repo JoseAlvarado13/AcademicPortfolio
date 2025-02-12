@@ -59,13 +59,13 @@ https://github.com/jxason/Artavia_Racing.git
 Develops
 - A) C# Language, .NET API
 This project has been developed using ASP.NET Core Web API technology with the .NET 6 Framework. It represents a guide I have started to develop in the C# programming language with the goal of standardizing programming structures for future projects, considering principles such as single responsibility, code reuse, standardization of classes through naming conventions, and the use of a well-defined layered model.
-Repository Link:
+- Repository Link:
 https://github.com/JoseAlvarado13/GuideStructureAPI.git
 - B) Java Language, Web Project
 
 This project has been developed using Java Web Application technology with Framework 8. It is a group project developed by Fidélitas University students Jason Zuñiga Solorzano, Horacio Porras Marín, Luis Fernandos Campos, and myself.
 This project represents a guide I have started to develop in the Java programming language with the goal of standardizing programming structures for future projects, taking into account principles such as single responsibility, code reuse, and standardization of classes through naming conventions.
-- Enlace Repositorio:
+- Repository Link:
 https://github.com/jxason/Artavia_Racing.git
 
 
