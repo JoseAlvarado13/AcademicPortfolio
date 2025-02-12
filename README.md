@@ -29,6 +29,7 @@ https://github.com/JoseAlvarado13/GuideStructureAPI.git
 - B) Lenguaje Java, Web proyect
 - Este proyecto ha sido desarrollado utilizando la tecnología JavaWebApplication utilizando el Framework 8. Es un proyecto grupal desarrollado por los estudiantes de la Universidad Fidélitas Jason Zuñiga Solorzano, Horacio Porras Marín, Luis Fernandos Campos y mi persona
 - Este proyecto representa una guía que he comenzado a desarrollar en el lenguaje de programación java con el objetivo de estandarizar estructuras de programación en futuros proyectos, tomando en cuenta principios como responsabilidad única, reutilización de código, estandarización de clases mediante nomenclaturas
+- Enlace Repositorio:
 https://github.com/jxason/Artavia_Racing.git
 
 
@@ -64,6 +65,7 @@ https://github.com/JoseAlvarado13/GuideStructureAPI.git
 
 This project has been developed using Java Web Application technology with Framework 8. It is a group project developed by Fidélitas University students Jason Zuñiga Solorzano, Horacio Porras Marín, Luis Fernandos Campos, and myself.
 This project represents a guide I have started to develop in the Java programming language with the goal of standardizing programming structures for future projects, taking into account principles such as single responsibility, code reuse, and standardization of classes through naming conventions.
+- Enlace Repositorio:
 https://github.com/jxason/Artavia_Racing.git
 
 
