@@ -62,9 +62,8 @@ This project has been developed using ASP.NET Core Web API technology with the .
 - Repository Link:
 https://github.com/JoseAlvarado13/GuideStructureAPI.git
 - B) Java Language, Web Project
-
-This project has been developed using Java Web Application technology with Framework 8. It is a group project developed by Fidélitas University students Jason Zuñiga Solorzano, Horacio Porras Marín, Luis Fernandos Campos, and myself.
-This project represents a guide I have started to develop in the Java programming language with the goal of standardizing programming structures for future projects, taking into account principles such as single responsibility, code reuse, and standardization of classes through naming conventions.
+- This project has been developed using Java Web Application technology with Framework 8. It is a group project developed by Fidélitas University students Jason Zuñiga Solorzano, Horacio Porras Marín, Luis Fernandos Campos, and myself.
+- This project represents a guide I have started to develop in the Java programming language with the goal of standardizing programming structures for future projects, taking into account principles such as single responsibility, code reuse, and standardization of classes through naming conventions.
 - Repository Link:
 https://github.com/jxason/Artavia_Racing.git
 
