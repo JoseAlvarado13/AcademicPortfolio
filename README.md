@@ -20,12 +20,13 @@ Estructuras de datos y algoritmos
 Este portafolio sirve como referencia tanto para futuras oportunidades laborales como para compartir conocimientos con la comunidad de desarrollo. 🚀
 
 Desarrollos 
-A) Lenguaje C#, API .NET
+
+- A) Lenguaje C#, API .NET
 - Este proyecto ha sido desarrollado utilizando la tecnología ASP.NET Core Web API con el Framework .NET 6. Representa una guía que he comenzado a desarrollar en el lenguaje de programación C# con el objetivo de estandarizar estructuras de programación en futuros proyectos, tomando en cuenta principios como responsabilidad única, reutilización de código, estandarización de clases mediante nomenclaturas y la utilización de un modelo en capas bien definido.
 - Enlace Repositorio:
 https://github.com/JoseAlvarado13/GuideStructureAPI.git
 
-B) Lenguaje Java, Web proyect
+- B) Lenguaje Java, Web proyect
 - Este proyecto ha sido desarrollado utilizando la tecnología JavaWebApplication utilizando el Framework 8. Es un proyecto grupal desarrollado por los estudiantes de la Universidad Fidélitas Jason Zuñiga Solorzano, Horacio Porras Marín, Luis Fernandos Campos y mi persona
 - Este proyecto representa una guía que he comenzado a desarrollar en el lenguaje de programación java con el objetivo de estandarizar estructuras de programación en futuros proyectos, tomando en cuenta principios como responsabilidad única, reutilización de código, estandarización de clases mediante nomenclaturas
 https://github.com/jxason/Artavia_Racing.git
@@ -55,11 +56,11 @@ https://github.com/jxason/Artavia_Racing.git
  This portfolio serves as a reference for future career opportunities and as a way to share knowledge with the developer community. 🚀
 
 Develops
-A) C# Language, .NET API
+- A) C# Language, .NET API
 This project has been developed using ASP.NET Core Web API technology with the .NET 6 Framework. It represents a guide I have started to develop in the C# programming language with the goal of standardizing programming structures for future projects, considering principles such as single responsibility, code reuse, standardization of classes through naming conventions, and the use of a well-defined layered model.
 Repository Link:
 https://github.com/JoseAlvarado13/GuideStructureAPI.git
-B) Java Language, Web Project
+- B) Java Language, Web Project
 
 This project has been developed using Java Web Application technology with Framework 8. It is a group project developed by Fidélitas University students Jason Zuñiga Solorzano, Horacio Porras Marín, Luis Fernandos Campos, and myself.
 This project represents a guide I have started to develop in the Java programming language with the goal of standardizing programming structures for future projects, taking into account principles such as single responsibility, code reuse, and standardization of classes through naming conventions.
