@@ -19,12 +19,12 @@ Estructuras de datos y algoritmos
 - Prototipados de interfaces de usuario y soluciones de diseño
 Este portafolio sirve como referencia tanto para futuras oportunidades laborales como para compartir conocimientos con la comunidad de desarrollo. 🚀
 
-Desarollo 
-A) Lenguaje C#
-API .NET
-Este proyecto ha sido desarrollado utilizando la tecnología ASP.NET Core Web API con el Framework .NET 6. Representa una guía que he comenzado a desarrollar en el lenguaje de programación C# con el objetivo de estandarizar estructuras de programación en futuros proyectos, tomando en cuenta principios como responsabilidad única, reutilización de código, estandarización de clases mediante nomenclaturas y la utilización de un modelo en capas bien definido.
-Enlace Repositorio
+Desarollos 
+A) Lenguaje C#, API .NET
+- Este proyecto ha sido desarrollado utilizando la tecnología ASP.NET Core Web API con el Framework .NET 6. Representa una guía que he comenzado a desarrollar en el lenguaje de programación C# con el objetivo de estandarizar estructuras de programación en futuros proyectos, tomando en cuenta principios como responsabilidad única, reutilización de código, estandarización de clases mediante nomenclaturas y la utilización de un modelo en capas bien definido.
+- Enlace Repositorio:
 https://github.com/JoseAlvarado13/GuideStructureAPI.git
+
 
 
 
